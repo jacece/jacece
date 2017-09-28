@@ -1,1 +1,5 @@
-test
+git init
+git add REAM.md
+git commit -u " "
+git remote add origin git@github.com:jacece/jacece
+git push -u origin master
